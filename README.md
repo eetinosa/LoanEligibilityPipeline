@@ -31,6 +31,7 @@ Source: Kaggle
 Add PYTHONPATH variable for `~/.bash_profile ` for MacOS
 ```export PYTHONPATH="/Users/nachiketh/Desktop/author-repo/Complete-MLOps-BootCamp/Packaging-ML-Model/packaging-ml-model:$PYTHONPATH"
 ```
+setx PYTHONPATH=%PYTHONPATH%;C:\Users\eetin\Downloads\AI_Project\LoanPredict_MLOps
 
 ## Virtual Environment
 Install virtualenv
